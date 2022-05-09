@@ -1,6 +1,6 @@
-## Computer Vision
+# Computer Vision Projects
 
-| Project | Status of Completion |
+| Project Name | Status of Completion |
 | ----- | -----|
 | 1. [**Plant Disease Classification**](https://github.com/vaasu2002/Plant-Disease-Classification) | :white_check_mark: |
 | 2. [**Face Distance Measurement**](https://github.com/vaasu2002/ComputerVision/tree/main/PROJECTS/Face%20Distance%20Measurement) | :white_check_mark: |
