@@ -1,6 +1,6 @@
 # PROJECTS
 
-## Personal and Major Projects
+### Personal and Major Projects
 | **S no.** | **Domain** | 
 | ----- | ----- |
 | 1. | [**Artificial Neural Network**](https://github.com/vaasu2002/PROJECTS/tree/main/Artificial%20Neural%20Network) |
@@ -15,7 +15,7 @@
 
 
 
-## Internships and Collaborative Projects
+### Internships and Collaborative Projects
 | S no. | Project | Organization | Visibility | My contribution |
 | ----- | ----- | -----| ----- | -----|
 | 1. | **Performing semantic segmentation to extract mosquito anatomy using Deep Learning** | [Omdena(VecTech)](https://www.vectech.io/) | Private | Read |
