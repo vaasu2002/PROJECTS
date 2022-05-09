@@ -1,12 +1,12 @@
 # PROJECTS
 
 ## Personal and Major Projects
-| Domain | 
-| ----- |
-| 1. [**Artificial Neural Network**](https://github.com/vaasu2002/PROJECTS/tree/main/Artificial%20Neural%20Network) |
-| 2. [**Computer Vision**](https://github.com/vaasu2002/PROJECTS/tree/main/Computer%20Vision) |
-| 4. [**Machine Learning**](https://github.com/vaasu2002/PROJECTS/tree/main/Machine%20Learning) |
-| 5. [**Natural Language Processing**](https://github.com/vaasu2002/PROJECTS/tree/main/Natural%20Language%20Processing) |
+| **S no.** | **Domain** | 
+| ----- | ----- |
+| 1. | [**Artificial Neural Network**](https://github.com/vaasu2002/PROJECTS/tree/main/Artificial%20Neural%20Network) |
+| 2. | [**Computer Vision**](https://github.com/vaasu2002/PROJECTS/tree/main/Computer%20Vision) |
+| 4. | [**Machine Learning**](https://github.com/vaasu2002/PROJECTS/tree/main/Machine%20Learning) |
+| 5. | [**Natural Language Processing**](https://github.com/vaasu2002/PROJECTS/tree/main/Natural%20Language%20Processing) |
 
 
 
