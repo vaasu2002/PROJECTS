@@ -1,5 +1,5 @@
 # Project
-Performing semantic segmentation to extract mosquito anatomy using Deep Learning
+**Performing semantic segmentation to extract mosquito anatomy using Deep Learning**
 # Problem Statement-
 [Vectech](https://www.vectech.io/) is a technology social enterprise working to empower public health organizations in the global fight against mosquito-borne disease, which wants to develop a species identification model for mosquitoes. For better identification, they wanted help in developing a mosquito body part segmentation and identification model  to help us determine what parts of the mosquito are visible and intact in the image. This enables more advanced computer vision methods, serving as highly valuable prior information for the species identification CNN, and may be paired with entomological taxonomic information to improve identification accuracy. These advanced methods are required for mosquito surveillance products because captured mosquitoes from the wild are often very damaged, missing scales, wings, legs, etc., which  sometimes affects whether that mosquito can be accurately identified to its species.
  
@@ -30,26 +30,9 @@ identified to species using the output segmentation.
         -    Mask RCNN for semantic segmentation
 
 # Code:-
-The main is private, these are notbooks in which I tested dataset with smaller dataset.
+The main code is private, these are notbooks in which I tested models with smaller dataset.
 1) [Finding fine details using Graph Based Segmentation.](http://htmlpreview.github.io/?https://github.com/vaasu2002/PROJECTS/blob/main/Computer%20Vision/MosquitoBodyPartSegmentation/Code/Graph_Based_Segmentation.html)
 2) [Feature Pyramid Network for semantic segmentation.]()
 3) [High-Resolution Net for semantic segmentation.]()
 4) [Multiclass U-Net using VGG, ResNet, and Inception as backbones](http://htmlpreview.github.io/?https://github.com/vaasu2002/PROJECTS/blob/main/Computer%20Vision/MosquitoBodyPartSegmentation/Code/U-Net%20and%20ResNet.html)
 5) Mask RCNN for semantic segmentation         - Final Code(Private)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
