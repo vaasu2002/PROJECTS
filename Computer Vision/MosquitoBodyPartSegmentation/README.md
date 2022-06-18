@@ -29,7 +29,7 @@ identified to species using the output segmentation.
 
 # Code:-
 The main is private, these are notbooks in which I tested dataset with smaller dataset.
-1) [Finding fine details using Graph Based Segmentation.](http://htmlpreview.github.io/?https://github.com/vaasu2002/https://github.com/vaasu2002/PROJECTS/blob/main/Computer%20Vision/MosquitoBodyPartSegmentation/Code/Graph_Based_Segmentation.html)
+1) [Finding fine details using Graph Based Segmentation.](http://htmlpreview.github.io/?https://github.com/vaasu2002/PROJECTS/blob/main/Computer%20Vision/MosquitoBodyPartSegmentation/Code/Graph_Based_Segmentation.html)
 2) [Feature Pyramid Network for semantic segmentation.]()
 3) [High-Resolution Net for semantic segmentation.]()
 4) [Multiclass U-Net using VGG, ResNet, and Inception as backbones]()
