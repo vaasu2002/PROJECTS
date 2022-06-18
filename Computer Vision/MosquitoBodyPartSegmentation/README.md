@@ -17,12 +17,20 @@ identified to species using the output segmentation.
         -    Finding fine details using Graph Based Segmentation.
         -    Feature Pyramid Network for semantic segmentation.
         -    High-Resolution Net for semantic segmentation.
-        -    Multiclass U-Net using VGG, ResNet, and Inception as backbones
+        -    Multiclass U-Net using VGG, ResNet, and Inception as backbones.
         -    Mask RCNN for semantic segmentation
 
-# Tech-Stack
+# Tech-Stack used
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+# Code:-
+The main is private, these are notbooks in which I tested dataset with smaller dataset.
+1) [Finding fine details using Graph Based Segmentation.]()
+2) [Feature Pyramid Network for semantic segmentation.]()
+3) [High-Resolution Net for semantic segmentation.]()
+4) [Multiclass U-Net using VGG, ResNet, and Inception as backbones]()
+5) Mask RCNN for semantic segmentation         - Final Code(Private)
