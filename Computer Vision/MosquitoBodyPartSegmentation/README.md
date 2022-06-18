@@ -14,9 +14,9 @@ identified to species using the output segmentation.
 
 # Pipelines I worked in:-
   1) **Data Annotation**
-        -       Annotated 500+ images
-        -       Worked as supervisor (reviewed 3000+ annocationn)
-        -       Managed annotation team and helped in co-ordinating between collaborators of the different time zone to ensure smooth progress
-        -       Tools Used - CVAT and Scale Rapid
+        -    Annotated 500+ images
+        -    Worked as supervisor (reviewed 3000+ annocationn)
+        -    Managed annotation team and helped in co-ordinating between collaborators of the different time zone to ensure smooth progress
+        -    Tools Used - CVAT and Scale Rapid
   2) **Modelling**
-        -        Build mutiple models using Tensorflow framework for finding the best model.
+        -    Build mutiple models using Tensorflow framework for finding the best model.
