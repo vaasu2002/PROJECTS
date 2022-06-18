@@ -1,3 +1,5 @@
+# Project
+Performing semantic segmentation to extract mosquito anatomy using Deep Learning
 # Problem Statement-
 [Vectech](https://www.vectech.io/) is a technology social enterprise working to empower public health organizations in the global fight against mosquito-borne disease, which wants to develop a species identification model for mosquitoes. For better identification, they wanted help in developing a mosquito body part segmentation and identification model  to help us determine what parts of the mosquito are visible and intact in the image. This enables more advanced computer vision methods, serving as highly valuable prior information for the species identification CNN, and may be paired with entomological taxonomic information to improve identification accuracy. These advanced methods are required for mosquito surveillance products because captured mosquitoes from the wild are often very damaged, missing scales, wings, legs, etc., which  sometimes affects whether that mosquito can be accurately identified to its species.
  
