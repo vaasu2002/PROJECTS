@@ -7,6 +7,13 @@ as those produced by our devices. The best solutions will have high resolution s
 These features are critical for identification and their presence, absence, and number can enable assessment of the physical condition and whether a specimen can be 
 identified to species using the output segmentation.
 
+# Tech-Stack used
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
 # Pipelines in which I worked on:-
   ### 1) **Data Annotation**
         -    Annotated 500+ images
@@ -19,13 +26,6 @@ identified to species using the output segmentation.
         -    High-Resolution Net for semantic segmentation.
         -    Multiclass U-Net using VGG, ResNet, and Inception as backbones.
         -    Mask RCNN for semantic segmentation
-
-# Tech-Stack used
-![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 # Code:-
 The main is private, these are notbooks in which I tested dataset with smaller dataset.
