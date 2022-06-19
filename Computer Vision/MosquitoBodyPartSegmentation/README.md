@@ -30,7 +30,7 @@ identified to species using the output segmentation.
         -    Mask RCNN for semantic segmentation
 
 # Code:-
-The main code is private, these are notbooks in which I tested models with smaller dataset.
+The main codes are private, these are notbooks in which I tested models with smaller dataset. Main dataset was of 10k+ images.
 1) [Finding fine details using Graph Based Segmentation.](http://htmlpreview.github.io/?https://github.com/vaasu2002/PROJECTS/blob/main/Computer%20Vision/MosquitoBodyPartSegmentation/Code/Graph_Based_Segmentation.html)
 2) [Feature Pyramid Network for semantic segmentation.]()
 3) [High-Resolution Net for semantic segmentation.]()
