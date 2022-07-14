@@ -1,5 +1,7 @@
 # PROJECTS
 
+[**Resume**](https://drive.google.com/file/d/1FZWZqaK10-ClJj76wUO4kUdQ9MKnJvCc/view?usp=sharing)
+
 ### Personal and Major Projects
 | **S no.** | **Domain** | 
 | ----- | ----- |
