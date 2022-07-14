@@ -7,6 +7,7 @@
 | 2. | [**Computer Vision**](https://github.com/vaasu2002/PROJECTS/tree/main/Computer%20Vision) |
 | 3. | [**Machine Learning**](https://github.com/vaasu2002/PROJECTS/tree/main/Machine%20Learning) |
 | 4. | [**Natural Language Processing**](https://github.com/vaasu2002/PROJECTS/tree/main/Natural%20Language%20Processing) |
+| 5. | [**Python**](https://github.com/vaasu2002/PROJECTS/tree/main/PYTHON) |
 
 
 
