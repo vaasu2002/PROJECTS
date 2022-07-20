@@ -1,6 +1,7 @@
 # PROJECTS
 
 [**My Resume**](https://drive.google.com/file/d/1FZWZqaK10-ClJj76wUO4kUdQ9MKnJvCc/view?usp=sharing)
+
 [**My Portfolio**](https://xenonyxblaze.github.io/vaasu-portfolio/)
 
 ### Personal and Major Projects
