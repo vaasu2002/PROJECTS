@@ -13,3 +13,5 @@ The dataset consists of building characteristics, weather data for the location 
 The target variable is **site\_eui** and the evaluation metric is **RMSE** score.
 
 [**ALL THE FILES OF THIS PROJECT**](https://drive.google.com/drive/folders/1-0qvfb9NkcHkxBwyYooPgPEnkSaumbHO?usp=sharing)
+
+[**RUN CODE**](https://colab.research.google.com/drive/1e3EDYZHBXAp3qAGypDQyXN6BuYLUGYxu?usp=sharing)
